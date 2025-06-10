@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargavpenugonda" alt="bhargavpenugonda" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **bhargavpenugonda149@gmail.com**
 
